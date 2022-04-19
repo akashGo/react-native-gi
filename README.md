@@ -1,5 +1,7 @@
 
 
+Branch "android12_animation_crash_fix" spawned from tag 0.65.1 as we are currently using the same version in gi mobile app
+
 
 -----------------------------------------
 
