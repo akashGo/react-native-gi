@@ -330,17 +330,17 @@ import java.util.Queue;
   public void connectAnimatedNodes(int parentNodeTag, int childNodeTag) {
     AnimatedNode parentNode = mAnimatedNodes.get(parentNodeTag);
     if (parentNode == null) {
-      throw new JSApplicationIllegalArgumentException(
-          "connectAnimatedNodes: Animated node with tag (parent) ["
-              + parentNodeTag
-              + "] does not exist");
+      // throw new JSApplicationIllegalArgumentException(
+      //     "connectAnimatedNodes: Animated node with tag (parent) ["
+      //         + parentNodeTag
+      //         + "] does not exist");
     }
     AnimatedNode childNode = mAnimatedNodes.get(childNodeTag);
     if (childNode == null) {
-      throw new JSApplicationIllegalArgumentException(
-          "connectAnimatedNodes: Animated node with tag (child) ["
-              + childNodeTag
-              + "] does not exist");
+      // throw new JSApplicationIllegalArgumentException(
+      //     "connectAnimatedNodes: Animated node with tag (child) ["
+      //         + childNodeTag
+      //         + "] does not exist");
     }
     parentNode.addChild(childNode);
     mUpdatedNodes.put(childNodeTag, childNode);
