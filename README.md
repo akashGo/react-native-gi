@@ -1,6 +1,10 @@
 
 -----------------------------------------
 
+
+compare tag https://github.com/akashGo/react-native-gi/compare/v0.65.1...v0.65.1_android12_fix
+
+
 Crash in Android 12, in animation
 https://console.firebase.google.com/project/goibibo-mobile/crashlytics/app/android:com.goibibo/issues/a7807e807b5b45276537c620fdae507a?time=last-seven-days&types=crash&versions=15.3.2%20(1986)
 
