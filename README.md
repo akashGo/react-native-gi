@@ -1,3 +1,30 @@
+
+
+
+-----------------------------------------
+
+Crash in Android 12, in animation
+https://console.firebase.google.com/project/goibibo-mobile/crashlytics/app/android:com.goibibo/issues/a7807e807b5b45276537c620fdae507a?time=last-seven-days&types=crash&versions=15.3.2%20(1986)
+
+Temporary solution
+https://github.com/facebook/react-native/issues/33375#issuecomment-1102689878
+
+
+https://user-images.githubusercontent.com/1775841/164018897-2c73a55d-e99e-434f-9d7c-44c5dd8e9253.jpg
+
+
+
+<img width="848" alt="image" src="https://user-images.githubusercontent.com/20220565/164109836-cc38207a-7701-4604-8475-af59dbf26a52.png">
+
+
+
+
+-------------------------------------------
+
+
+
+
+
 <h1 align="center">
   <a href="https://reactnative.dev/">
     React Native
