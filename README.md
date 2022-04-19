@@ -1,5 +1,9 @@
 
 
+compare tag
+https://github.com/akashGo/react-native-gi/compare/v0.65.1...v0.65.1_android12_fix
+
+
 Branch "android12_animation_crash_fix" spawned from tag 0.65.1 as we are currently using the same version in gi mobile app
 
 
